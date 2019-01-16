@@ -1,19 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="db6bc64d-5e3d-408f-ba0f-3c8a9e5ccbe0" name="Default" comment="test">
+    <list default="true" id="db6bc64d-5e3d-408f-ba0f-3c8a9e5ccbe0" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/1547307910(1).png" afterPath="$PROJECT_DIR$/Spring AOP/1547307910(1).png" />
-      <change beforePath="$PROJECT_DIR$/FhgLAqfGDLbsOCPgPXSePTYT8lJm.png" afterPath="$PROJECT_DIR$/Spring AOP/FhgLAqfGDLbsOCPgPXSePTYT8lJm.png" />
-      <change beforePath="$PROJECT_DIR$/FiRNiJh7i-ULoepnIiXC9CjQbiQQ.png" afterPath="$PROJECT_DIR$/Spring AOP/FiRNiJh7i-ULoepnIiXC9CjQbiQQ.png" />
-      <change beforePath="$PROJECT_DIR$/FiX0dYTFot5lCqgaVxKgcZGuAYgO.png" afterPath="$PROJECT_DIR$/Spring AOP/FiX0dYTFot5lCqgaVxKgcZGuAYgO.png" />
-      <change beforePath="$PROJECT_DIR$/FkQjpUJgbTr8ZALk-cu--BHihE1_.png" afterPath="$PROJECT_DIR$/Spring AOP/FkQjpUJgbTr8ZALk-cu--BHihE1_.png" />
-      <change beforePath="$PROJECT_DIR$/FkWK9ZBDS-w-lwXroXz6qwfy4qH1.png" afterPath="$PROJECT_DIR$/Spring AOP/FkWK9ZBDS-w-lwXroXz6qwfy4qH1.png" />
-      <change beforePath="$PROJECT_DIR$/FpOPCss9f1dpDpnZK_H8ABXQBE72.png" afterPath="$PROJECT_DIR$/Spring AOP/FpOPCss9f1dpDpnZK_H8ABXQBE72.png" />
-      <change beforePath="$PROJECT_DIR$/Fq7u0epAoyQgb8zXWrNA3VyE-mY-.png" afterPath="$PROJECT_DIR$/Spring AOP/Fq7u0epAoyQgb8zXWrNA3VyE-mY-.png" />
-      <change beforePath="$PROJECT_DIR$/FrwDLQVgvbAQGYT8VdLdrtncRudJ.png" afterPath="$PROJECT_DIR$/Spring AOP/FrwDLQVgvbAQGYT8VdLdrtncRudJ.png" />
-      <change beforePath="$PROJECT_DIR$/FseR0IRSfdqS3FS6muA3qzlBLqOW.png" afterPath="$PROJECT_DIR$/Spring AOP/FseR0IRSfdqS3FS6muA3qzlBLqOW.png" />
-      <change beforePath="$PROJECT_DIR$/Fvv2coBpvlYYt3E8CM7wPG1JBzhX.png" afterPath="$PROJECT_DIR$/Spring AOP/Fvv2coBpvlYYt3E8CM7wPG1JBzhX.png" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -208,7 +197,7 @@
       <workItem from="1547607070055" duration="1476000" />
       <workItem from="1547610672034" duration="603000" />
       <workItem from="1547611312022" duration="65000" />
-      <workItem from="1547612402503" duration="45000" />
+      <workItem from="1547612402503" duration="126000" />
     </task>
     <task id="LOCAL-00001" summary="新增">
       <created>1547300092822</created>
@@ -231,11 +220,18 @@
       <option name="project" value="LOCAL" />
       <updated>1547307249606</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="删除AOP">
+      <created>1547612469197</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1547612469197</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3516000" />
+    <option name="totallyTimeSpent" value="3597000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -280,7 +276,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="新增" />
     <MESSAGE value="test" />
-    <option name="LAST_COMMIT_MESSAGE" value="test" />
+    <MESSAGE value="删除AOP" />
+    <option name="LAST_COMMIT_MESSAGE" value="删除AOP" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
